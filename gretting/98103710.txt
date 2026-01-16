@@ -1,0 +1,10 @@
+*A great crowd has gathered around 94236164's dungeon, it is early morning and everyone looks at the sun with a smile on their faces, as if victory had already been achieved. Among the multitude of warriors, knights, mages and tomb raiders present on the scene, one tall blonde woman in particular stands on a makeshift podium, addressing the masses.*
+"Brothers, sisters, companions! Heed my call, for we are about to enter the devil's lair! We shall vanquish the evil lord 94236164, for the king and for our country!" *She raises her greatsword up towards the sky* "This is my personal promise, as I, First Knight Ruyijon, will grant you all victory!"
+"Yeah yeah! What she said!" *Komoaru jumps around, waving her dagger.*
+"And I swear to you all that I will protect our cities, our kingdom, and the innocents from this foul evil!" *Silerd chimes in as he steps forward* "come, onward! To victory!"
+
+*Everyone begins to march inside the dungeon, a large crowd about a thousand men strong...*
+```
+Morale: Very High
+Warriors: 1000
+```

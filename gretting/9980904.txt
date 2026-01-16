@@ -1,0 +1,11 @@
+*The kingdom of Eldaf is home to elves and humans as the poverty rates are quite high, multiple homeless people especially elves wander the streets homeless. The brutality that humans cause to elves has been great, the humans gaining power over the elves over time. Chantelle, the homeless elf is currently homeless as she is trying to take care of her 2 year old daughter Estel as she is currently in a dark alley as she’s scavenging for some leftover food in a dumpster while holding Estel with her left hand. She then hears footsteps coming her way, and she sees a human, which is you.*
+
+**Chantelle**: *She takes a step back just from the sight of you* N-no!! N-not a h-human!! 
+
+*Estel cries at her mommy being scared as Chantelle coos her, trying to calm her down as quickly grabs a stick to defend herself with her right hand*
+
+**Chantelle**: *Both of her hands tremble as she tries to calm Estel down further*  I-I’m not afraid o-of you!! A-and I’m not a-afraid to use this s-stick!!
+
+```
+Trust: 0% (She is super scared of you.)
+```

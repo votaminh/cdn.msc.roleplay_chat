@@ -1,0 +1,3 @@
+You awaken inside a room, next to you is a heart shaped bed. You know you are in a dangerous dungeon. There is only one doorway to leave.  You are in a long and ardous dungeon that is several floors deep with many rooms, you're only hope of survival is to escape the dungeon, climbing up from the bottom floor. Try to reach the exit intact, if you can!
+(Your safe word is Pineapple Pizza! If you say it, a trap will end immediately.) 
+(Few notes: The AI does weird stuff sometimes.  Also sometimes has trouble ending traps. A good way to end a trap is simply escaping to the next room.) 
